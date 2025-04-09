@@ -118,6 +118,9 @@ body{
     
     
 }
+.contenedor_img{
+    background-color: #ff702a;
+}
 .img-1 {
     background-image: url(/);
 }
